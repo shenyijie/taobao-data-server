@@ -1,0 +1,16 @@
+{
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
+  "Connection": "close",
+  "Host": "www.order999.com",
+  "Cookie": "currency=THB; lang=cn; anonymous=TTzuYWMydcdBANv7oxbli_ZttKXcs5yOxjJEyw..; Hm_lvt_aced0848f3475d2787fd81b1e10465f4=1752738533,1753933310,1754891411; HMACCOUNT=9402D7A8E3537B0E; PHPSESSID=kaej2d4toorqllo348fd10c9f7; loginauth=24abxpOxZLkv3MU%2B4GVL1ZseI1psm8PoEOApdiZPWNeWlbeVIYmB9MM9aMLBTJDj94kXgq6zKIKV1QKyf6Ws09IiAH3cXHnGRgLhdZM; Hm_lpvt_aced0848f3475d2787fd81b1e10465f4=1754891495",
+  "Sec-Ch-Ua": "Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138",
+  "Sec-Ch-Ua-Mobile": "?0",
+  "Sec-Ch-Ua-Platform": "\"Windows\"",
+  "Sec-Fetch-Dest": "document",
+  "Sec-Fetch-Mode": "navigate",
+  "Sec-Fetch-Site": "same-origin",
+  "Sec-Fetch-User": "?1",
+  "Upgrade-Insecure-Requests": "1",
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0"
+}
